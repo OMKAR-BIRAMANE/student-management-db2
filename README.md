@@ -1,6 +1,5 @@
 <h1 align="center">
-    SCHOOL MANAGEMENT SYSTEM
-</h1>
+Student Management</h1>
 
 <h3 align="center">
 Streamline school management, class organization, and add students and faculty.<br>
